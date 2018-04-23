@@ -1,0 +1,62 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinSolution.Module", "WinSolution.Module\WinSolution.Module.vbproj", "{75BEF62C-499C-486B-9952-D7FC7B928845}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinSolution.Module.Win", "WinSolution.Module.Win\WinSolution.Module.Win.vbproj", "{D43F4DB6-0EF3-4C56-A86E-239ABC318F05}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinSolution.Win", "WinSolution.Win\WinSolution.Win.vbproj", "{119972EE-6909-4320-B23F-817B3DEB3B92}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dennis.Search.Win", "Dennis.Search.Win\Dennis.Search.Win.vbproj", "{438CA0A4-0889-43B5-898C-DEDE07A7FFD2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BEF62C-499C-486B-9952-D7FC7B928845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BEF62C-499C-486B-9952-D7FC7B928845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BEF62C-499C-486B-9952-D7FC7B928845}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{75BEF62C-499C-486B-9952-D7FC7B928845}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{75BEF62C-499C-486B-9952-D7FC7B928845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BEF62C-499C-486B-9952-D7FC7B928845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43F4DB6-0EF3-4C56-A86E-239ABC318F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43F4DB6-0EF3-4C56-A86E-239ABC318F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43F4DB6-0EF3-4C56-A86E-239ABC318F05}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{D43F4DB6-0EF3-4C56-A86E-239ABC318F05}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{D43F4DB6-0EF3-4C56-A86E-239ABC318F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43F4DB6-0EF3-4C56-A86E-239ABC318F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119972EE-6909-4320-B23F-817B3DEB3B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119972EE-6909-4320-B23F-817B3DEB3B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119972EE-6909-4320-B23F-817B3DEB3B92}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{119972EE-6909-4320-B23F-817B3DEB3B92}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{119972EE-6909-4320-B23F-817B3DEB3B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119972EE-6909-4320-B23F-817B3DEB3B92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438CA0A4-0889-43B5-898C-DEDE07A7FFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438CA0A4-0889-43B5-898C-DEDE07A7FFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438CA0A4-0889-43B5-898C-DEDE07A7FFD2}.EasyTest|Any CPU.ActiveCfg = Release|Any CPU
+		{438CA0A4-0889-43B5-898C-DEDE07A7FFD2}.EasyTest|Any CPU.Build.0 = Release|Any CPU
+		{438CA0A4-0889-43B5-898C-DEDE07A7FFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438CA0A4-0889-43B5-898C-DEDE07A7FFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
