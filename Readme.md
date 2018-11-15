@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [SearchObjectBase.cs](./CS/Dennis.Search.Win/SearchObjectBase.cs) (VB: [SearchObjectBase.vb](./VB/Dennis.Search.Win/SearchObjectBase.vb))
+* [SearchObjectPropertyEditor.cs](./CS/Dennis.Search.Win/SearchObjectPropertyEditor.cs) (VB: [SearchObjectPropertyEditor.vb](./VB/Dennis.Search.Win/SearchObjectPropertyEditor.vb))
+* [SearchObjectViewController.cs](./CS/Dennis.Search.Win/SearchObjectViewController.cs) (VB: [SearchObjectViewController.vb](./VB/Dennis.Search.Win/SearchObjectViewController.vb))
+* [ProductSearchObject.cs](./CS/WinSolution.Module.Win/ProductSearchObject.cs) (VB: [ProductSearchObject.vb](./VB/WinSolution.Module.Win/ProductSearchObject.vb))
+* [Product.cs](./CS/WinSolution.Module/Product.cs) (VB: [Product.vb](./VB/WinSolution.Module/Product.vb))
+<!-- default file list end -->
 # How to search for objects by using all the properties or by using more complex criteria
 
 
